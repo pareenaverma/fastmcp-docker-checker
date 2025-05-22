@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "demoserver": {
+      "command": "/path/to/your/venv/bin/python3",
+      "args": ["/path/to/your/server.py"],
+      "env": {},
+      "timeout": 60000
+    }
+  }
+}
+
