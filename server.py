@@ -1,4 +1,4 @@
-rom fastmcp import FastMCP
+from fastmcp import FastMCP
 import requests
 from typing import List, Dict, Tuple
 
